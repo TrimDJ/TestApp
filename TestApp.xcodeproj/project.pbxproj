@@ -15,6 +15,7 @@
 		F0AEF08B27A2732A00C9D24C /* TestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AEF08A27A2732A00C9D24C /* TestAppTests.swift */; };
 		F0AEF09627A2732A00C9D24C /* TestAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AEF09527A2732A00C9D24C /* TestAppUITests.swift */; };
 		F0AEF0A427A278BC00C9D24C /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AEF0A327A278BC00C9D24C /* FirstViewController.swift */; };
+		F0AEF0A627A29E6600C9D24C /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AEF0A527A29E6600C9D24C /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F0AEF09527A2732A00C9D24C /* TestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppUITests.swift; sourceTree = "<group>"; };
 		F0AEF09727A2732A00C9D24C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0AEF0A327A278BC00C9D24C /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		F0AEF0A527A29E6600C9D24C /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +103,9 @@
 			children = (
 				F0AEF07327A2732A00C9D24C /* AppDelegate.swift */,
 				F0AEF07527A2732A00C9D24C /* SceneDelegate.swift */,
-				F0AEF07927A2732A00C9D24C /* Main.storyboard */,
 				F0AEF0A327A278BC00C9D24C /* FirstViewController.swift */,
+				F0AEF0A527A29E6600C9D24C /* CustomTableViewCell.swift */,
+				F0AEF07927A2732A00C9D24C /* Main.storyboard */,
 				F0AEF07C27A2732A00C9D24C /* Assets.xcassets */,
 				F0AEF07E27A2732A00C9D24C /* LaunchScreen.storyboard */,
 				F0AEF08127A2732A00C9D24C /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				F0AEF0A427A278BC00C9D24C /* FirstViewController.swift in Sources */,
 				F0AEF07427A2732A00C9D24C /* AppDelegate.swift in Sources */,
+				F0AEF0A627A29E6600C9D24C /* CustomTableViewCell.swift in Sources */,
 				F0AEF07627A2732A00C9D24C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
